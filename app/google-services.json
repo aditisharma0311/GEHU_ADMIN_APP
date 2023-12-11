@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647514353143",
+    "project_id": "gehuadminapp",
+    "storage_bucket": "gehuadminapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647514353143:android:ababaa2d6b11f9ec7092f2",
+        "android_client_info": {
+          "package_name": "com.example.gehuadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647514353143-0gv36em94t2h6lesugqflth86400reic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwvkpEv0qnqu17Lo2eLyqkIZvik0pDTok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647514353143-0gv36em94t2h6lesugqflth86400reic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
